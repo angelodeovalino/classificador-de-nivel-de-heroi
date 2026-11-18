@@ -1,4 +1,4 @@
-# classificador-de-nivel-de-heroi
+# Projeto #1: Classificador de Nível de Herói
 Desafio de projeto #1 do curso de Lógica de Programação da DIO.
 
 #### Descrição:
